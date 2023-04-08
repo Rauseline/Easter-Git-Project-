@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Happy Easter</title>
+  </head>
+  <body>
+    <h1>Joyeuses Pâques!</h1>
+    <p>Nous vous souhaitons une agréable journée de Pâques!</p>
+    <a href="index.html">Retour vers la landing page</a>
+  </body>
+</html>
